@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eclipse
 .classpath
 .project
@@ -14,3 +15,11 @@
 # Maven
 log/
 target/
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> b17fa60f318159366d65caa9bf2deab7fad7ea17
